@@ -1,0 +1,28 @@
+{
+	"Label"   : "Root",
+	"leaf": false,
+	"children": [
+		{
+			"Label": "Home",
+			"Route": "/home",
+			"leaf": true
+		},
+		{
+			"Label"   : "Users",
+			"Route"   : "",
+			"leaf": false,
+			"children": [
+				{
+					"Label": "Manage Users",
+					"Route": "/manage-users",
+					"leaf" : true
+				},
+				{
+					"Label": "Add User",
+					"Route": "/add-user",
+					"leaf" : true
+				}
+			]
+		}
+	]
+}

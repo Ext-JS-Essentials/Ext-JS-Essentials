@@ -1,0 +1,24 @@
+.user-item
+{
+    float: left;
+    width: 120px;
+    text-align: center;
+    margin: 20px;
+
+    img
+    {
+        width: 100%;
+    }
+
+    .name
+    {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .role
+    {
+        font-size: 0.8em;
+        color: #CCC;
+    }
+}

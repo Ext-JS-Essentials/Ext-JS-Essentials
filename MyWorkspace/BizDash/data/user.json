@@ -1,0 +1,7 @@
+{
+	"id"       : 1,
+	"Name"     : "Joe Bloggs",
+	"Email"    : "joe@gmail.com",
+	"TelNumber": "07777777777",
+	"Role"     : "Salesman"
+}

@@ -1,0 +1,15 @@
+    @include extjs-button-small-ui(
+        $ui: 'action',
+
+        $background-color: #008000,
+        $color: #FFFFFF,
+        $border-color: transparent
+    );
+
+    @include extjs-button-small-ui(
+        $ui: 'cancel',
+
+        $background-color: #EBEBEB,
+        $color: #000000,
+        $border-color: transparent
+    );

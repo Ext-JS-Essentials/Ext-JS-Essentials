@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"userId": 1,
+		"productId": 1,
+		"Date"     : "2014-08-04T14:41:17.220Z",
+		"Quantity" : 1,
+		"TotalCost": 9.99
+	},
+	{
+		"id": 2,
+		"userId": 1,
+		"productId": 1,
+		"Date"     : "2014-08-03T14:41:17.220Z",
+		"Quantity" : 2,
+		"TotalCost": 19.98
+	}
+]

@@ -1,0 +1,7 @@
+	{
+		"id"         : 1,
+		"Name"       : "Product 1",
+		"Description": "Product 1 Description",
+		"Quantity"   : 10,
+		"Price"      : 9.99
+	}

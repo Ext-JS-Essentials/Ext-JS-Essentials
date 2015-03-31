@@ -1,0 +1,14 @@
+[
+	{
+		"id"   : 1,
+		"Name" : "Location 1",
+		"Row"  : 20,
+		"Shelf": 10
+	},
+	{
+		"id"   : 2,
+		"Name" : "Location 2",
+		"Row"  : 11,
+		"Shelf": 22
+	}
+]
